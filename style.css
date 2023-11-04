@@ -1,0 +1,21 @@
+body {
+    color: white;
+    background-color: skyblue;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkslategray;
+}
+
+#camera {
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: lemonchiffon;
+}
